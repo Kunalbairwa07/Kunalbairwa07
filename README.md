@@ -36,11 +36,7 @@
 ### 📈 GitHub Stats (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalbairwa07&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalbairwa07&theme=radical" width="47%" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalbairwa07&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalbairwa07&layout=compact&theme=radical" width="40%" />
 </p>
 
