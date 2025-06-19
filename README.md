@@ -44,7 +44,7 @@
 
 ### ⏱️ My Coding Stats (WakaTime)
 
-[![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+[![WakaTime](https://wakatime.com/badge/user/kunalbairwa007.svg)](https://wakatime.com/@kunalbairwa007)
 
 ---
 
