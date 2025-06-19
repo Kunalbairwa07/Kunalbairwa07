@@ -42,6 +42,12 @@
 
 ---
 
+### ⏱️ My Coding Stats (WakaTime)
+
+[![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+
+---
+
 ### 🚀 My Learning Journey
 
 ```text
