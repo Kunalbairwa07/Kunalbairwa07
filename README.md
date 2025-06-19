@@ -1,37 +1,58 @@
 <p align="center">
   <img src="https://github.com/Kunalbairwa/Kunalbairwa/blob/main/wave.gif" width="50px" />
-  <strong>Hi there, I'm <a href="https://github.com/Kunalbairwa">Kunal Bairwa</a>!</strong>
+  <strong>Hello World! I'm <a href="https://github.com/Kunalbairwa07">Kunal Bairwa</a> 👨‍💻</strong>
 </p>
 
 <p align="center">
-  🚀 Aspiring C++ Developer | Building Strong DSA Foundations | Open-Source Enthusiast
+  🚀 AI & DS Student | C++ Enthusiast | Full-Stack Learner | DSA Explorer | Linux & Cybersecurity Curious 🛡️
+</p>
+
+<p align="center">
+  <a href="mailto:Kunalbairwa2580@gmail.com">📩 Email</a> • 
+  <a href="https://linkedin.com/in/kunal-bairwa-237826294">🔗 LinkedIn</a> • 
+  <a href="https://github.com/Kunalbairwa07">🌐 GitHub</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💡 I’m currently diving deep into **C++ programming** with a strong focus on **Data Structures & Algorithms**.
-- 🤝 I love collaborating on projects that challenge my skills and push my boundaries.
-- 🎯 My mission: to grow into a confident DSA practitioner and a problem-solving machine.
+
+- 💡 I’m an **AI & Data Science** undergrad from **RTU (2023–2027)** with a deep passion for tech.
+- 💻 Currently diving deep into **C++** and **Data Structures & Algorithms**.
+- 🌐 Exploring **Linux**, **SQL**, **Web Development (Node.js)**, and **Cybersecurity tools**.
+- 🔄 Always learning, always building — and loving every step of the dev journey!
 
 ---
 
-### 🛠️ My Skill Set
+### 🛠️ Tech Stack
 
-| Languages & Tools      | Proficiency       |
-|------------------------|-------------------|
-| **C++**                | &#9733;&#9733;&#9733;&#9733;&#9734; |
-| STL (Vectors, Maps…)   | &#9733;&#9733;&#9733;&#9734;&#9734; |
-| Basic Algorithms       | &#9733;&#9733;&#9733;&#9734;&#9734; |
-| Git & GitHub           | &#9733;&#9733;&#9734;&#9734;&#9734; |
-| VS Code                | &#9733;&#9733;&#9733;&#9733;&#9734; |
+| 💻 Languages      | 🌐 Web & DB     | 🔧 Tools & Platforms      | 📚 CS Concepts |
+|------------------|----------------|----------------------------|----------------|
+| C, C++           | HTML, CSS, JS  | Git, GitHub, VS Code, Linux| DSA, DBMS      |
+| SQL, Bash (basic)| Node.js, MySQL | IoT (NodeMCU), Blynk App   | OS Basics      |
 
 ---
 
-### 🛣️ My Journey So Far
+### 📈 GitHub Stats (Auto-Updating)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunalbairwa07&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalbairwa07&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalbairwa07&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+### 🚀 My Learning Journey
 
 ```text
-✔ Mastered basic syntax, I/O, variables, loops, conditions
-✔ Built foundational apps: calculator, leap-year checker, sum calculator…
-➡ Next up: Recursion, Arrays, Strings, Searching & Sorting
+✅ Mastered basics: syntax, loops, conditions, arrays, functions
+⚙️ Hands-on: calculators, logical apps, pattern programs
+📚 Learning: Recursion, Searching, Sorting, Strings, STL
+🛠️ Tech stack in progress: Node.js, Express, Linux commands, Git workflows
+🔜 Up Next: Cybersecurity, API dev, DB optimization
+
 
