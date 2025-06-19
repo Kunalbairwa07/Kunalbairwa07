@@ -42,11 +42,6 @@
 
 ---
 
-### ⏱️ My Coding Stats (WakaTime)
-
-[![WakaTime](https://wakatime.com/badge/user/kunalbairwa007.svg)](https://wakatime.com/@kunalbairwa007)
-
----
 
 ### 🚀 My Learning Journey
 
