@@ -42,4 +42,13 @@
 
 ---
 
+### 🚀 My Learning Journey
+
+```text
+✅ Mastered basics: syntax, loops, conditions, arrays, functions
+⚙️ Hands-on: calculators, logical apps, pattern programs
+📚 Learning: Recursion, Searching, Sorting, Strings, STL
+🛠️ Tech stack in progress: Node.js, Express, Linux commands, Git workflows
+🔜 Up Next: Cybersecurity, API dev, DB optimization
+
 
